@@ -1,0 +1,574 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		ED3933092CEAF1E400972745 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = ED3932EA2CEAF1E300972745 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = ED3932F12CEAF1E300972745;
+			remoteInfo = hotelManzana;
+		};
+		ED3933132CEAF1E400972745 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = ED3932EA2CEAF1E300972745 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = ED3932F12CEAF1E300972745;
+			remoteInfo = hotelManzana;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		ED3932F22CEAF1E300972745 /* hotelManzana.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hotelManzana.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED3933082CEAF1E400972745 /* hotelManzanaTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hotelManzanaTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED3933122CEAF1E400972745 /* hotelManzanaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = hotelManzanaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		ED39331A2CEAF1E400972745 /* Exceptions for "hotelManzana" folder in "hotelManzana" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = ED3932F12CEAF1E300972745 /* hotelManzana */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		ED3932F42CEAF1E300972745 /* hotelManzana */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				ED39331A2CEAF1E400972745 /* Exceptions for "hotelManzana" folder in "hotelManzana" target */,
+			);
+			path = hotelManzana;
+			sourceTree = "<group>";
+		};
+		ED39330B2CEAF1E400972745 /* hotelManzanaTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = hotelManzanaTests;
+			sourceTree = "<group>";
+		};
+		ED3933152CEAF1E400972745 /* hotelManzanaUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = hotelManzanaUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		ED3932EF2CEAF1E300972745 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ED3933052CEAF1E400972745 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ED39330F2CEAF1E400972745 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		ED3932E92CEAF1E300972745 = {
+			isa = PBXGroup;
+			children = (
+				ED3932F42CEAF1E300972745 /* hotelManzana */,
+				ED39330B2CEAF1E400972745 /* hotelManzanaTests */,
+				ED3933152CEAF1E400972745 /* hotelManzanaUITests */,
+				ED3932F32CEAF1E300972745 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		ED3932F32CEAF1E300972745 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				ED3932F22CEAF1E300972745 /* hotelManzana.app */,
+				ED3933082CEAF1E400972745 /* hotelManzanaTests.xctest */,
+				ED3933122CEAF1E400972745 /* hotelManzanaUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		ED3932F12CEAF1E300972745 /* hotelManzana */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ED39331B2CEAF1E400972745 /* Build configuration list for PBXNativeTarget "hotelManzana" */;
+			buildPhases = (
+				ED3932EE2CEAF1E300972745 /* Sources */,
+				ED3932EF2CEAF1E300972745 /* Frameworks */,
+				ED3932F02CEAF1E300972745 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				ED3932F42CEAF1E300972745 /* hotelManzana */,
+			);
+			name = hotelManzana;
+			packageProductDependencies = (
+			);
+			productName = hotelManzana;
+			productReference = ED3932F22CEAF1E300972745 /* hotelManzana.app */;
+			productType = "com.apple.product-type.application";
+		};
+		ED3933072CEAF1E400972745 /* hotelManzanaTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ED3933202CEAF1E400972745 /* Build configuration list for PBXNativeTarget "hotelManzanaTests" */;
+			buildPhases = (
+				ED3933042CEAF1E400972745 /* Sources */,
+				ED3933052CEAF1E400972745 /* Frameworks */,
+				ED3933062CEAF1E400972745 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				ED39330A2CEAF1E400972745 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				ED39330B2CEAF1E400972745 /* hotelManzanaTests */,
+			);
+			name = hotelManzanaTests;
+			packageProductDependencies = (
+			);
+			productName = hotelManzanaTests;
+			productReference = ED3933082CEAF1E400972745 /* hotelManzanaTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		ED3933112CEAF1E400972745 /* hotelManzanaUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ED3933232CEAF1E400972745 /* Build configuration list for PBXNativeTarget "hotelManzanaUITests" */;
+			buildPhases = (
+				ED39330E2CEAF1E400972745 /* Sources */,
+				ED39330F2CEAF1E400972745 /* Frameworks */,
+				ED3933102CEAF1E400972745 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				ED3933142CEAF1E400972745 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				ED3933152CEAF1E400972745 /* hotelManzanaUITests */,
+			);
+			name = hotelManzanaUITests;
+			packageProductDependencies = (
+			);
+			productName = hotelManzanaUITests;
+			productReference = ED3933122CEAF1E400972745 /* hotelManzanaUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		ED3932EA2CEAF1E300972745 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					ED3932F12CEAF1E300972745 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					ED3933072CEAF1E400972745 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = ED3932F12CEAF1E300972745;
+					};
+					ED3933112CEAF1E400972745 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = ED3932F12CEAF1E300972745;
+					};
+				};
+			};
+			buildConfigurationList = ED3932ED2CEAF1E300972745 /* Build configuration list for PBXProject "hotelManzana" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = ED3932E92CEAF1E300972745;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = ED3932F32CEAF1E300972745 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ED3932F12CEAF1E300972745 /* hotelManzana */,
+				ED3933072CEAF1E400972745 /* hotelManzanaTests */,
+				ED3933112CEAF1E400972745 /* hotelManzanaUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		ED3932F02CEAF1E300972745 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ED3933062CEAF1E400972745 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ED3933102CEAF1E400972745 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		ED3932EE2CEAF1E300972745 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ED3933042CEAF1E400972745 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ED39330E2CEAF1E400972745 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		ED39330A2CEAF1E400972745 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = ED3932F12CEAF1E300972745 /* hotelManzana */;
+			targetProxy = ED3933092CEAF1E400972745 /* PBXContainerItemProxy */;
+		};
+		ED3933142CEAF1E400972745 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = ED3932F12CEAF1E300972745 /* hotelManzana */;
+			targetProxy = ED3933132CEAF1E400972745 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		ED39331C2CEAF1E400972745 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3N6J63S2HT;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = hotelManzana/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Glint-UIKit.hotelManzana";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		ED39331D2CEAF1E400972745 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3N6J63S2HT;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = hotelManzana/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Glint-UIKit.hotelManzana";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		ED39331E2CEAF1E400972745 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		ED39331F2CEAF1E400972745 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		ED3933212CEAF1E400972745 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3N6J63S2HT;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Glint-UIKit.hotelManzanaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hotelManzana.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/hotelManzana";
+			};
+			name = Debug;
+		};
+		ED3933222CEAF1E400972745 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3N6J63S2HT;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Glint-UIKit.hotelManzanaTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/hotelManzana.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/hotelManzana";
+			};
+			name = Release;
+		};
+		ED3933242CEAF1E400972745 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3N6J63S2HT;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Glint-UIKit.hotelManzanaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = hotelManzana;
+			};
+			name = Debug;
+		};
+		ED3933252CEAF1E400972745 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 3N6J63S2HT;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Glint-UIKit.hotelManzanaUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = hotelManzana;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		ED3932ED2CEAF1E300972745 /* Build configuration list for PBXProject "hotelManzana" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ED39331E2CEAF1E400972745 /* Debug */,
+				ED39331F2CEAF1E400972745 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ED39331B2CEAF1E400972745 /* Build configuration list for PBXNativeTarget "hotelManzana" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ED39331C2CEAF1E400972745 /* Debug */,
+				ED39331D2CEAF1E400972745 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ED3933202CEAF1E400972745 /* Build configuration list for PBXNativeTarget "hotelManzanaTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ED3933212CEAF1E400972745 /* Debug */,
+				ED3933222CEAF1E400972745 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ED3933232CEAF1E400972745 /* Build configuration list for PBXNativeTarget "hotelManzanaUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ED3933242CEAF1E400972745 /* Debug */,
+				ED3933252CEAF1E400972745 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = ED3932EA2CEAF1E300972745 /* Project object */;
+}
